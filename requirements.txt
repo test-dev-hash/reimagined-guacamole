@@ -3,3 +3,4 @@ requests
 sentence-transformers
 numpy
 PyPDF2
+torchvision
